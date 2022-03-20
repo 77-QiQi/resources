@@ -172,12 +172,12 @@
                         <div class="card-inner">
                             <div class="card-inner">
                                 <div class="cardbtn-edit">
-                                    <div class="card-heading">用戶名修改</div>
+                                    <div class="card-heading">用户名修改</div>
                                     <button class="btn btn-flat" id="username-update"><span class="icon">check</span>&nbsp;
                                     </button>
                                 </div>
                                 <div class="form-group form-group-label">
-                                    <label class="floating-label" for="newusername">新用戶名</label>
+                                    <label class="floating-label" for="newusername">新用户名</label>
                                     <input class="form-control maxwidth-edit" id="newusername" type="text">
                                 </div>
                             </div>
