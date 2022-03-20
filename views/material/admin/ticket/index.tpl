@@ -23,7 +23,7 @@
                     <div class="card-main">
                         <div class="card-inner">
                             <div class="form-group form-group-label">
-                                <label class="floating-label" for="userid"> 输入用戶 ID 快速创建新工单 </label>
+                                <label class="floating-label" for="userid"> 输入用户 ID 快速创建新工单 </label>
                                 <input class="form-control maxwidth-edit" id="userid" type="text">
                             </div>
                         </div>
