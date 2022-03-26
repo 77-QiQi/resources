@@ -90,7 +90,7 @@
                         </div>
                         <div class="user-info-bottom">
                             <div class="nodeinfo node-flex">
-                                <span><i class="icon icon-md">attach_money</i>到期账户自动删除</span>
+                                <span><i class="icon icon-md">attach_money</i>账户可用余额/到期账户自动删除</span>
                                 <a href="/user/code" class="card-tag tag-green">充值</a>
                             </div>
                         </div>
